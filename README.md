@@ -1,13 +1,14 @@
 - 💬 Explorando novas tecnologias e desenvolvendo soluções de software.
 
-- 🎓 Computer Science Student at Unijorge
+- 🎓 Estudando Ciência da computação em UNIJORGE
 
-- 👨‍💻 I’m currently learning JavaScript and other languages
+- 👨‍💻 Atualmente estou aprendendo JavaScript e outras linguagens
 
-- How to reach to me:
+- Como chegar até mim:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-gabriel-da-mata-dos-reis-b313aa27b/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis.gabrielreis@gmail.com)
+<a href="https://www.instagram.com/luis_matareis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 Idiomas e ferramentas:
 
@@ -21,10 +22,11 @@ Idiomas e ferramentas:
 <img src="https://www.cdnlogo.com/logos/c/76/c.svg" alt="c++" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="50"/> </a> 
+...Aprendendo mais
 
 GitHub Stats:
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=LuisGMReis" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=LuisGMReis" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=Min-theme&locale=en&hide_border=false&username=LuisGMReis" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=Min-theme&hide_border=false&username=LuisGMReis" height="150" alt="languages graph"  />
 </div>
