@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://tenor.com/pt-BR/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910"  />
-</div>
-
 ###
 
 <div align="center">
