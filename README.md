@@ -1,12 +1,3 @@
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
 ###
 
 <div align="center">
@@ -22,8 +13,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<p align="left">I'm Luís Gabriel from Brazil<br><br><br><br> I'm specializing in back-end development.<br><br>💬 Exploring new technologies and developing software solutions.<br><br>👨‍💻 I'm currently learning about data analysis.<br><br>How to reach me:</p>
+<p align="left">I'm Luís Gabriel from Brazil<br> I'm specializing in back-end development.<br><br>💬 Exploring new technologies and developing software solutions.<br><br>👨‍💻 I'm currently learning about data analysis.<br><br>How to reach me:</p>
 
 ###
 
