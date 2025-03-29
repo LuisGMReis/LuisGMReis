@@ -1,15 +1,13 @@
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Olá 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 Sobre mim</h3>
 
 ###
-<p align="left">I'm Luís Gabriel from Brazil<br> I'm specializing in back-end development.<br><br>💬 Exploring new technologies and developing software solutions.<br><br>👨‍💻 I'm currently learning about data analysis.<br><br>How to reach me:</p>
-
-###
+<p align="left">Sou Luís Gabriel<br> Sou especialista em desenvolvimento back-end.<br><br>💬 Explorando novas tecnologias e desenvolvendo soluções de software.<br><br>👨‍💻 Atualmente estou aprendendo sobre Python e Java.<br><br>Como entrar em contato comigo:</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/luisgmreis/" target="_blank">
@@ -20,7 +18,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens e ferramentas</h3>
 
 ###
 
